@@ -31,7 +31,7 @@
 
 <br>
 
-## 담당 역할
+## 수행 내용
 1. 카드결제데이터 전처리 및 인사이트 도출
 
 ![image](https://user-images.githubusercontent.com/114147352/233573885-1d774e0d-996c-4591-bad8-3792cdae65fd.png)
